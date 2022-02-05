@@ -1,4 +1,4 @@
-<h2 align="center"><b> 👨‍💻 Personal Information 👨‍💻 </b></h2>
+<h2 align="center"><b>👨‍💻 Personal Information 👨‍💻</b></h2>
 
 <p align='Middle'><a href='https://t.me/LegendBoy_XD><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
 
@@ -20,6 +20,7 @@ Country = "🇮🇳"
 <h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
 <br>
 <br>
+
 ----
 ![GitHub followers](https://img.shields.io/github/followers/LEGEND-AI?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=LEGEND-AI.LEGEND-AI)
