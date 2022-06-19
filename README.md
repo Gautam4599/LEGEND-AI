@@ -26,7 +26,7 @@ Country = "🇮🇳"
 ----
 ![GitHub followers](https://img.shields.io/github/followers/LEGEND-AI?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=LEGEND-AI.LEGEND-AI)
-[![Profile views](https://komarev.com/ghpvc/?username=LEGEND-AI&label=Profile%20views)](https://github.com/LEGEND-AI)
+[![Profile views](https://komarev.com/ghpvc/?username=LEGEND-AI&label=Profile%20views)](https:/Gautam4599/github.com/LEGEND-AI)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=LEGEND-AI)
   
 <a href="https://github-readme-stats.vercel.app/api?username=LEGEND-AI&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
